@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rahul Yadav
+# 👋 Hi, I’m Rahul Yadav ☺️
 
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here’s a bit more about me:
 
